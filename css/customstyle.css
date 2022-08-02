@@ -1,0 +1,19 @@
+.tops {
+  color: gray;
+}
+
+.podp {
+  background-color: rgba(0, 68, 253, 0.6);
+}
+
+.bron_dach {
+  background-color: rgba(85, 135, 41, 0.9);
+}
+
+.bron_prog {
+  background-color: rgba(195, 46, 44, 0.9);
+}
+
+.bron_tur {
+  background-color: rgba(8, 90, 184, 0.9);
+}
